@@ -1,5 +1,5 @@
 {
-  "name": "@dkundel/sms-action-demo",
+  "name": "@johnsebin97/msde-sa2022",
   "version": "1.0.0",
   "description": "A basic Node.js application to demonstrate how to add the Twilio SMS action to it",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dkundel/sms-action-demo.git"
+    "url": "git+https://github.com/johnsebin97/msde-sa2022.git"
   },
   "keywords": [],
   "author": "Dominik Kundel <hi@dominik.dev> (https://dkundel.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dkundel/sms-action-demo/issues"
+    "url": "https://github.com/johnsebin97/msde-sa2022/issues"
   },
-  "homepage": "https://github.com/dkundel/sms-action-demo#readme",
+  "homepage": "https://github.com/johnsebin97/msde-sa2022#readme",
   "devDependencies": {
     "jest": "^24.9.0"
   }
